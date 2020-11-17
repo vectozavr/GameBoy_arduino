@@ -1,6 +1,7 @@
 /**************************************************************************
 Vectozavr - YouTube channel about science, experiments and programming.
 You can share, modify and use this code for any purpose you want :)
+https://www.youtube.com/c/vectozavr
  **************************************************************************/
  
 #include <Wire.h>
