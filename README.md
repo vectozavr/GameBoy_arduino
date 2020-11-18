@@ -10,13 +10,13 @@ This project contains 3 simple games. You can switch between them by menu:
 You can modify any games and make them more beautiful!
 ![Project demonstration](img/2.jpg)
 
-Gemoboy:
+Gameboy:
 ![Project demonstration](img/4.jpg)
 
 Gameboy inside:
 ![Project demonstration](img/3.jpg)
 
-Sheme for this code:
+Scheme for this code:
 ![Project demonstration](img/7.jpg)
 
 If you want to make the same configuration:
