@@ -34,8 +34,8 @@ struct Point2D {
 };
 
 struct Point2D_int8_t {
-  int8_t x = 0;
-  int8_t y = 0;
+  int8_t x;
+  int8_t y;
 };
 
 struct Segment {
