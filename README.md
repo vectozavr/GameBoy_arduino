@@ -1,6 +1,6 @@
 # GameBoy_arduino
 Source code of gameBoy from video on YouTube channel "Vectozavr"
-[![Watch the video](img/5.jpg)](https://youtu.be/5UeVOUgtkyM)
+[![Watch the video]](https://youtu.be/5UeVOUgtkyM)
 
 This project can be run on any arduino platforms:
 ![Project demonstration](img/5.jpg)
